@@ -7,4 +7,5 @@ Este repositorio es para la tarea de la Semana 12:
 
 Tema: 
 Iteración sobre arreglos multidimensionales utilizando bucles anidados.
+
 Nombre de la tarea: Registro de Temperaturas.
