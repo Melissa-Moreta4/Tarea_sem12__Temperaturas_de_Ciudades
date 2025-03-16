@@ -3,7 +3,7 @@ Tareas Unidad II - Fundamentos de Programación (G)
 
 Estudiante: Melissa Moreta Peña
 
-La tarea se encuentra dentro de la carpeta llamada "Semana13"
+La tarea se encuentra dentro de la carpeta "semana13"
 
 Este repositorio es para las Tareas especialmente de la asignatura. 
 
