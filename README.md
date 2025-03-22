@@ -3,9 +3,9 @@ Tareas Unidad II - Fundamentos de Programación (G)
 
 Estudiante: Melissa Moreta Peña
 
-Este repositorio es para la tarea de la Semana 12: 
+La tarea se encuentra dentro de la carpeta "semana13"
 
-Tema: 
-Iteración sobre arreglos multidimensionales utilizando bucles anidados.
+Este repositorio es para las Tareas especialmente de la asignatura. 
 
-Nombre de la tarea: Registro de Temperaturas.
+Tema de la Semana 13: 
+Definición y uso de funciones en programación.
