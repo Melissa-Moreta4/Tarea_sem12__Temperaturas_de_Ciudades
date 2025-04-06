@@ -1,0 +1,4 @@
+Línea 1: Primera prueba, bienvenido a mi archivo.
+Línea 2: Estamos Trabajando con archivos en Python.
+Línea 3: Prueba de otro ejemplo de lineas.
+Línea 4: Terminando la Prueba del uso de lista de líneas.
